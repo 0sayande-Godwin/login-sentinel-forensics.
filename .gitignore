@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local test evidence
+security.log
+actions.log
+
+# Generated investigation files
+security_report.txt
+blocked_ips.txt
