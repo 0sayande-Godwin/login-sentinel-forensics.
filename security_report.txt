@@ -1,0 +1,15 @@
+MINI SOC SECURITY REPORT
+========================
+Total IPs monitored: 2
+Failed login attempts: 6
+High-risk IPs: 1
+Medium-risk IPs: 0
+Blocked IPs: 2
+
+HIGH-RISK SOURCES
+=================
+192.168.1.25 -> 5 failed attempts
+
+SUCCESSFUL LOGINS AFTER FAILED ATTEMPTS
+=======================================
+192.168.1.30 had failed attempts before a successful login.
